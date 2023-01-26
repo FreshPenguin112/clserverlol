@@ -1,0 +1,2 @@
+websockets
+git+https://github.com/FreshPenguin112/cloudlink.git#egg=cloudlink
